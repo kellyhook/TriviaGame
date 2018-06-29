@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://i.pinimg.com/originals/ef/0b/1b/ef0b1b9ad1ca63cd17e81ac54980e9c2.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
